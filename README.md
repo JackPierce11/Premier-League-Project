@@ -1,5 +1,13 @@
 # Predicting Premier League Match Winners From Post Game Data
 
+### Conclusion
+**See full conclusion at bottom of project**
+
+We found that the **random forest classifier** performed the best on our data, with a **CV score of 0.692** and a **test accuracy score of 0.728**. This means that this model can correctly predict the winner of a football match by seeing the post match stats roughly 73% of the time.
+
+Below is the confusion matrix for our random forest classifier.
+
+![image.png](attachment:image.png)
 
 ### Project Goal
 In this project we will be using post match data from premier league matches and predicting which team won the game so that coaches can understand from looking at post match data whether they 'deserved' to win the game or not. Using K-nearest neighbour, logistic regression and random forest classifier classification models we will see which models perform best and compare their results.
@@ -15,13 +23,3 @@ sources:
 
 ### Data Source
 https://github.com/dataquestio/project-walkthroughs/blob/master/football_matches/matches.csv
-
-
-### Conclusion
-**See full conclusion at bottom of project**
-
-We found that the **random forest classifier** performed the best on our data, with a **CV score of 0.692** and a **test accuracy score of 0.728**. This means that this model can correctly predict the winner of a football match by seeing the post match stats roughly 73% of the time.
-
-Below is the confusion matrix for our random forest classifier.
-
-![image.png](attachment:image.png)
