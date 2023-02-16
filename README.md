@@ -9,6 +9,9 @@ Below is the confusion matrix for our random forest classifier.
 
 ![image.png](attachment:image.png)
 
+<img width="431" alt="image" src="https://user-images.githubusercontent.com/73466733/219404112-df5eb35f-f3ea-4c9b-9f58-2db6fe359b6b.png">
+
+
 ### Project Goal
 In this project we will be using post match data from premier league matches and predicting which team won the game so that coaches can understand from looking at post match data whether they 'deserved' to win the game or not. Using K-nearest neighbour, logistic regression and random forest classifier classification models we will see which models perform best and compare their results.
 
