@@ -5,11 +5,11 @@
 
 We found that the **random forest classifier** performed the best on our data, with a **CV score of 0.692** and a **test accuracy score of 0.728**. This means that this model can correctly predict the winner of a football match by seeing the post match stats roughly 73% of the time.
 
-Below is the confusion matrix for our random forest classifier.
-
-![image.png](attachment:image.png)
-
 <img width="431" alt="image" src="https://user-images.githubusercontent.com/73466733/219404112-df5eb35f-f3ea-4c9b-9f58-2db6fe359b6b.png">
+
+Below is a confusion matrix for the random forest classifier:
+
+<img width="279" alt="image" src="https://user-images.githubusercontent.com/73466733/219404636-6a369dcd-4f77-49ce-a1fa-fda1b7bbf061.png">
 
 
 ### Project Goal
