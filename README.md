@@ -1,8 +1,6 @@
 # Predicting Premier League Match Winners From Post Game Data
 
 ### Conclusion
-**See full conclusion at bottom of project**
-
 We found that the **random forest classifier** performed the best on our data, with a **CV score of 0.692** and a **test accuracy score of 0.728**. This means that this model can correctly predict the winner of a football match by seeing the post match stats roughly 73% of the time. 
 
 Below is a table that summarises the results for all the models:
